@@ -82,7 +82,46 @@ li{
 
 }
 
+.done{
+	text-decoration: line-through;
+}
 
+.hide{
+	visibility: hidden;
+}
+
+.all-completed-button-style{
+	padding: 1%;
+	position: absolute;
+	left: 5%;
+	top: 45%;
+}
+
+.delete-all-button{
+	padding: 1%;
+	position: absolute;
+	left: 5%;
+	top: 55%;
+
+}
+
+.hide-button{
+	padding: 1%;
+	padding-right: 3.5%;
+	position: absolute;
+	left: 5%;
+	top: 65%;
+
+}
+
+.show-button{
+	padding: 1%;
+	position: absolute;
+	left: 5%;
+	top: 75%;
+	padding-right: 2.8%;
+
+}
 
 
 
